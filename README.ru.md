@@ -6,6 +6,13 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/ascii-dance.png?v=dance-v1">
+    <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/ascii-dance.gif?v=dance-v1" alt="Танцующий ASCII-персонаж в стиле аниме" width="280">
+  </picture>
+</p>
+
+<p align="center">
   <a href="README.md">English</a> · <strong>Русский</strong>
 </p>
 
