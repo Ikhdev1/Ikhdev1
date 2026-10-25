@@ -8,8 +8,8 @@
 <p align="center">
   <a href="https://ikhdev.xyz">
     <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/api-promo-v2.png">
-      <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/api-promo-v2.gif" alt="ikhdev API — единый API для разных моделей. Каталог на ikhdev.xyz" width="1200">
+      <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/api-promo-v3.png">
+      <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/api-promo-v3.gif" alt="ikhdev API — единый API для разных моделей. Каталог на ikhdev.xyz" width="1200">
     </picture>
   </a>
 </p>
