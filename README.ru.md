@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/header.png" alt="ikhdev — AI-инфраструктура и инструменты разработчика" width="100%">
+  <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/header.png?v=wordmark-v2" alt="IKHDEV" width="100%">
 </p>
 
 <p align="center">
@@ -23,17 +23,11 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 <h3><a href="https://ikhdev.xyz">ikhdev API</a></h3>
 <p><sub>AI-ИНФРАСТРУКТУРА</sub></p>
 <p>Платформа доступа к нескольким семействам моделей через OpenAI-совместимый API. Подключение существующих клиентов, выбор модели и управление доступом в одном месте.</p>
 <p><a href="https://ikhdev.xyz/models">Модели</a> · <a href="https://ikhdev.xyz/docs">Документация</a> · <a href="https://ikhdev.xyz/status">Статус</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Ikhdev1/autoreg-agent-skill">Autoreg</a></h3>
-<p><sub>ИНСТРУМЕНТЫ ДЛЯ АГЕНТОВ</sub></p>
-<p>Скилл для повторяемой регистрации и подтверждения почты. YAML-сценарии, браузер и HTTP, постоянные профили и шифрованное хранение аккаунтов.</p>
-<p><a href="https://github.com/Ikhdev1/autoreg-agent-skill">Код</a> · <a href="https://github.com/Ikhdev1/autoreg-agent-skill/releases/latest">Последний релиз</a></p>
 </td>
 </tr>
 </table>
