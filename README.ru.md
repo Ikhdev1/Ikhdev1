@@ -6,10 +6,12 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/ascii-dance.png?v=dance-v1">
-    <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/ascii-dance.gif?v=dance-v1" alt="Танцующий ASCII-персонаж в стиле аниме" width="280">
-  </picture>
+  <a href="https://ikhdev.xyz">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/api-promo.png?v=promo-v1">
+      <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/api-promo.gif?v=promo-v1" alt="ikhdev API — разные модели через единый API. Каталог на ikhdev.xyz" width="100%">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
