@@ -1,0 +1,6 @@
+/PROJECT_STATE.md
+/previews/
+__pycache__/
+*.py[cod]
+.env
+.env.*
