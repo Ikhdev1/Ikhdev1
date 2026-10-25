@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/header.png?v=wordmark-v2" alt="IKHDEV" width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/header.png?v=wordmark-v2">
+    <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/header.gif?v=shine-v1" alt="IKHDEV" width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -27,6 +30,7 @@ I'm **ikhdev**, founder of **[ikhdev API](https://ikhdev.xyz)**. I work on model
 <h3><a href="https://ikhdev.xyz">ikhdev API</a></h3>
 <p><sub>AI INFRASTRUCTURE</sub></p>
 <p>A multi-model API platform with an OpenAI-compatible endpoint. Connect existing clients, choose a model, and manage access in one place.</p>
+<p><a href="https://ikhdev.xyz"><img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/api-preview.png?v=landing-v1" alt="Public ikhdev API landing page showing the model gateway and an API request example" width="100%"></a></p>
 <p><a href="https://ikhdev.xyz/models">Models</a> · <a href="https://ikhdev.xyz/docs">Documentation</a> · <a href="https://ikhdev.xyz/status">Status</a></p>
 </td>
 </tr>

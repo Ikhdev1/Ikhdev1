@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/header.png?v=wordmark-v2" alt="IKHDEV" width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/header.png?v=wordmark-v2">
+    <img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/header.gif?v=shine-v1" alt="IKHDEV" width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -27,6 +30,7 @@
 <h3><a href="https://ikhdev.xyz">ikhdev API</a></h3>
 <p><sub>AI-ИНФРАСТРУКТУРА</sub></p>
 <p>Платформа доступа к нескольким семействам моделей через OpenAI-совместимый API. Подключение существующих клиентов, выбор модели и управление доступом в одном месте.</p>
+<p><a href="https://ikhdev.xyz"><img src="https://raw.githubusercontent.com/Ikhdev1/Ikhdev1/main/assets/api-preview.png?v=landing-v1" alt="Публичная страница ikhdev API: шлюз моделей и пример API-запроса" width="100%"></a></p>
 <p><a href="https://ikhdev.xyz/models">Модели</a> · <a href="https://ikhdev.xyz/docs">Документация</a> · <a href="https://ikhdev.xyz/status">Статус</a></p>
 </td>
 </tr>
